@@ -1,0 +1,17 @@
+.cache/
+.vscode/
+[Bb]uild/
+*.swp
+CMakeCache.txt
+CMakeFiles/
+Debug/
+Release/
+*.vcxproj
+*.vcxproj.filters
+*.dir/
+*.sln
+install/
+install_manifest.txt
+generated/*
+!generated/*.in
+cmake_install.cmake
